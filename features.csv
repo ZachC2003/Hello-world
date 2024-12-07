@@ -1,0 +1,12 @@
+# Stock Ranking Data - Generated on 2023-12-05
+Ticker,Volatility,Momentum,ROA (Return on Assets),ROE (Return on Equity),Payout Ratio,Altman Z-Score,Predicted Return,Weighted Score,Rank,Growth Score,Stability Score,Adjusted Weighted Score,Category,Top Stock
+AAPL,0.32,0.04,0.01,0.02,0.66,2.50,0.04,0.59,3.00,0.04,0.43,0.60,Stability-Focused,True
+MSFT,0.30,0.10,0.03,0.07,0.02,-0.22,0.08,0.01,8.00,0.46,0.05,0.02,Growth-Focused,True
+TSLA,0.64,0.02,0.01,0.02,1.26,6.98,0.03,1.54,1.00,0.00,1.00,1.55,Stability-Focused,True
+AMZN,0.35,0.12,0.07,0.27,0.00,4.71,0.10,1.04,2.00,1.00,0.61,1.05,Growth-Focused,True
+GOOG,0.31,0.07,-0.02,-0.04,-0.00,1.09,0.07,0.25,6.00,0.20,0.19,0.26,Balanced,True
+NVDA,0.51,0.15,0.46,-2.95,0.00,-0.42,0.11,-0.62,9.00,0.51,0.01,0.01,Growth-Focused,True
+META,0.43,0.15,-0.41,-3.32,-0.02,-0.52,0.13,-0.71,10.00,0.56,0.00,0.01,Growth-Focused,True
+BRK-B,0.22,0.03,0.04,0.08,0.86,2.23,0.03,0.56,4.00,0.12,0.43,0.57,Stability-Focused,True
+JNJ,0.20,-0.04,0.12,0.37,0.34,2.21,0.01,0.56,5.00,0.67,0.37,0.57,Growth-Focused,True
+PG,0.21,-0.01,0.03,0.10,0.63,0.02,0.01,0.09,7.00,0.04,0.15,0.10,Stability-Focused,True
